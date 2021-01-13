@@ -1,8 +1,12 @@
 # quickjs-windows
-build quickjs-2019-08-10 for windows
 
-1，只尝试过 TDM-GCC 编译，build 目录下是编译结果  
-2，基准文件是 quickjs-2019-08-10，来自 https://bellard.org/quickjs/  
-3，为了正常编译，修改过 Makefile 文件  
-  
-祝你好运！  
+build quickjs-2020-11-08 for windows
+
+
+tdm64-gcc-9.2.0.ex 可以正常编译 quickjs-2020-11-08   
+
+
+编译工具下载地址:
+https://github.com/jmeubank/tdm-gcc/releases/download/v9.2.0-tdm64-1/tdm64-gcc-9.2.0.exe
+
+
